@@ -765,7 +765,7 @@ function getSettingsThatRequireRestart() {
 		+ config.sdkPath
 		+ config.analyzerPath
 		+ config.analyzerDiagnosticsPort
-		+ config.analyzerObservatoryPort
+		+ config.analyzerVmServicePort
 		+ config.analyzerInstrumentationLogFile
 		+ config.extensionLogFile
 		+ config.analyzerAdditionalArgs
